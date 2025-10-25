@@ -18,6 +18,12 @@ A real-time, multi-user chat application built with Java sockets and advanced mu
 - BufferedReader/PrintWriter for I/O
 
 📸 Demo Output
+💬 CHAT SERVER STARTED ON PORT 8080
+🟢 User 'Alice' joined the chat!
+🟢 User 'Bob' joined the chat!
+💬 Alice: Hello everyone!
+💬 Bob: Hi Alice! How are you?
+🔴 User 'Alice' left the chat
 
 🛠 Usage
 bash
